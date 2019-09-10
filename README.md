@@ -1,4 +1,4 @@
-#Waypoint navigation for APM 
+Waypoint navigation for APM 
 
 The repository contains the python code for waypoint navigation with takeoff and land for Ardupilot based drones.
 
